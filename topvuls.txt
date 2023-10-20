@@ -1,0 +1,31 @@
+Text Injection
+HTML Injection
+SQL Injection
+XSS
+command injection
+Host Header
+Open Redirection
+SSTI
+CRLF(carrier return line feed)
+Authetication errors
+BAC
+IDOR(Insecure Direct Object reference)
+Rate limitng
+SPF SPoofing
+Session Manegment
+Sesnsive Data Exposure
+Directory Travesal
+ClickjAcking
+Directory Listing
+LFI(local file inclusion)
+RIF(remote file inclusion)
+CSRF
+SSRF
+Buisness Logical
+Reser Password
+Broken Links
+SUbdomain Takeover
+TLS/SSL
+CORS(cross origin resouse sharing)
+XXE(Xml external entity)
+
